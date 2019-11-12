@@ -12,8 +12,7 @@ You need to download the domain_adaptation_images dataset for test.
 Training:
     1.run 'train.py' to get the centor vector
     2.run 'pseudo.py' to get the new train dataset
-    3.continue 1&2 
-
+    3.execute 1&2 alternatively and iteratively
 
 
 Citation:
