@@ -1,5 +1,5 @@
 # PFAN
- Code for CVPR-2019 paper "Progressive Feature Alignment for Unsupervised Domain Adaptation",We will release a journal version code which further improves the reported results in our paper.
+ Code for CVPR-2019 paper "Progressive Feature Alignment for Unsupervised Domain Adaptation",We will release a journal version code which further improves the reported results in our paper.We will keep updating this code.
 
 Prerequisites:
     Python2/Python3
