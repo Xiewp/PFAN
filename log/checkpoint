@@ -1,0 +1,2 @@
+model_checkpoint_path: "mstnmodel_amazo_to_webcam_final2967.ckpt"
+all_model_checkpoint_paths: "mstnmodel_amazo_to_webcam_final2967.ckpt"
